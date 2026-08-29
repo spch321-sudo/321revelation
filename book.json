@@ -1,0 +1,48 @@
+{
+ "id": "revelation",
+ "ch": 22,
+ "hue": "#9C6B18",
+ "ready": true,
+ "tc": {
+  "name": "啟示錄",
+  "app": "321啟示錄講義",
+  "sub": "祂就在燈臺中間",
+  "verses": 405,
+  "author": "約翰",
+  "src": "《321啟示錄解經與講章》",
+  "bible": "和合本",
+  "desc": "321啟示錄講義：全書二十二章逐節原文解經、講章逐字稿與321生命應用。",
+  "chword": "二十二",
+  "biblename": "啟示錄",
+  "abbr": "啟",
+  "short": "啟示錄講義"
+ },
+ "sc": {
+  "name": "启示录",
+  "app": "321启示录讲义",
+  "sub": "祂就在灯台中间",
+  "verses": 405,
+  "author": "约翰",
+  "src": "《321启示录解经与讲章》",
+  "bible": "和合本",
+  "desc": "321启示录讲义：全书二十二章逐节原文解经、讲章逐字稿与321生命应用。",
+  "chword": "二十二",
+  "biblename": "启示录",
+  "abbr": "启",
+  "short": "启示录讲义"
+ },
+ "en": {
+  "name": "Revelation",
+  "app": "321 Revelation Study",
+  "sub": "He Walks Among the Lampstands",
+  "verses": 405,
+  "author": "John",
+  "src": "321 Revelation Study",
+  "bible": "World English Bible",
+  "desc": "321 Revelation Study: verse-by-verse exegesis from the Greek, full sermon manuscripts, and 321 life application across all twenty-two chapters.",
+  "chword": "twenty-two",
+  "biblename": "Revelation",
+  "abbr": "Rev",
+  "short": "Revelation Study"
+ }
+}
